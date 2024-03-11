@@ -1,5 +1,13 @@
+:root{
+    --roxo:#3d2f8b;
+
+}
+
+
+
+
 body{
-    background-color: rgb(85, 2, 161);
+    background-color: var(--roxo);
 }
 body{-webkit-text-stroke-color: antiquewhite;}
 /* liverpool maior da inglaterra */
