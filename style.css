@@ -21,5 +21,7 @@ img{
     display: flex;
     background-color: #FFFFFF;
     border-radius: 30px;
-    border: 
+    border: black; 
+    margin: 1cm;
+    
 }
