@@ -1,6 +1,7 @@
 :root{
     --roxo:#3d2f8b;
-
+--branco:#FFFFFF
+;
 }
 
 
@@ -14,4 +15,9 @@ body{-webkit-text-stroke-color: antiquewhite;}
 
 img{
  width: 10%;
+}
+
+#intro{
+    display: flex;
+    background-color: #FFFFFF;
 }
