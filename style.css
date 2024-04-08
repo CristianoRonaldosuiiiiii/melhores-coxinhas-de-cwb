@@ -36,3 +36,21 @@ img{
     margin: 1cm;
     
 }
+
+.textos{
+padding: 9px 9px;
+}
+
+.equipe{
+    text-align: center;
+}
+
+.fotos-integrantes{
+display: grid;
+grid-template-columns: 33% 33% 33%;
+font-style: italic;
+}
+
+.fotos-integrantes{
+    width: 40%;
+}
