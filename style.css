@@ -41,16 +41,20 @@ img{
 padding: 9px 9px;
 }
 
-.equipe{
-    text-align: center;
+.equipe{  
+text-align: center;
 }
 
-.fotos-integrantes{
-display: grid;
-grid-template-columns: 33% 33% 33%;
-font-style: italic;
+.Fotos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 40%;
+
 }
 
-.fotos-integrantes{
+.Integrante{
+    width: 60%;
+}
+
+.img-empresa{
     width: 40%;
 }
