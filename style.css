@@ -49,7 +49,7 @@ text-align: center;
 
 .Fotos{
     display: grid;
-    grid-template-columns: 66% 66% 66%;
+    grid-template-columns: 40% 40% 40%;
 
 }
 
