@@ -2,8 +2,7 @@
 
 :root{
     --roxo:#3d2f8b;
---branco:#FFFFFF
-;
+--branco:#FFFFFF;
 }
 
 
@@ -11,7 +10,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    img src="./aiaiai2.jpg" alt="shrek emo"
+
     width: 20%;
   
 }
@@ -22,11 +21,12 @@ body{
     background-color: var(--roxo);
     font-family: "Cuprum", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400;
   font-style: normal;
 
     margin: 1cm;
 }
+
 body{-webkit-text-stroke-color: antiquewhite;}
 /* milan>>>>liverpool */
 
