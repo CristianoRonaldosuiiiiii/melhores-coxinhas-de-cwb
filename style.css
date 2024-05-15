@@ -23,11 +23,7 @@ img{
  width: 10%;
 }
 
-#intro{
-    display: flex;
-    background-color: #FFFFFF;
-    border-radius: 20px;
-    border: black; 
+.intro{
     margin: 1cm;
     
 }
@@ -41,6 +37,8 @@ padding: 20px 0;
 
 .equipe{  
 text-align: center;
+margin: 1cm;
+    
 }
 
 .Fotos{
@@ -79,7 +77,8 @@ header{
     align-items: center;
     background-color: red;
     padding: 10px 0;
-    margin: 0 30px;
+    margin: 1cm;
+    
     margin-bottom: 40px;
 }
 
