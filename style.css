@@ -6,14 +6,6 @@
 }
 
 
-header{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    color: #FFFFFF;
-}
-
-
 
 body{
     background-color: var(--preto);
