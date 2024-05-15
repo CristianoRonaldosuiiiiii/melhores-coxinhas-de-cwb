@@ -51,16 +51,14 @@ text-align: center;
 .Fotos{
     display: grid;
     grid-template-columns: 33% 33% 33%;
+    color: red;
 
 }
 
 .Integrante{
-    width: 100%;
+    width: 80%;
 }
 
-#equipe{
-    text-align: center;
-}
 
 
 
