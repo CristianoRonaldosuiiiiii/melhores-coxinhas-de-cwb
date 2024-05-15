@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cuprum:ital,wght@0,400..700;1,400..700&display=swap');
 
 :root{
-    --roxo:#110846;
+    --preto:#000000;
 --branco:#FFFFFF;
 }
 
@@ -15,12 +15,12 @@ header{
 
 
 body{
-    background-color: var(--roxo);
+    background-color: var(--preto;)
     font-family: "Cuprum", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-    margin: 1cm;
+  margin: 1cm; 
 }
 
 body{-webkit-text-stroke-color: antiquewhite;}
