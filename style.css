@@ -70,5 +70,18 @@ text-align: center;
     width: 100%;
 }
 
+.part{
+    display: flex;
+    margin: 0;
+    justify-content: space-between;
+    align-items: center;
+}
+.red{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
 
 
